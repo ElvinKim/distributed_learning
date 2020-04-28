@@ -1,7 +1,7 @@
 # Paper Collection of Distributed Learning (Optimization)
 
 ## Overview
-* [Data Parallelism]()
+* [Distributed Learning]()
   * [Gradient Compression]()
   * [Local SGD]()
   * [Decentralized Learning]()
