@@ -1,1 +1,1 @@
-# distributed_learning
+# Paper Collection of Distributed Learning (Optimizationi)
